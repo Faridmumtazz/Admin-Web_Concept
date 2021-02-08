@@ -1,4 +1,4 @@
-# Concept Design Dashboar Admin
+# Concept Design Dashboard Admin
 
 ## The View of My Website
 
