@@ -6,4 +6,4 @@
 
 
 
-**After this, I will create a website using Javascript language** *So stay tune on my akun Guyss*
+**After this, I will create a website using Javascript language** *So stay tune on my github Guyss*
